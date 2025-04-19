@@ -1,0 +1,11 @@
+# CloudOps Automation & Monitoring System
+
+Este projeto simula operações de CloudOps utilizando Python:
+- Monitoramento de métricas
+- Detecção de sobrecarga
+- Ações de auto scaling
+- Logs e alertas
+
+## Execução
+```bash
+python main.py

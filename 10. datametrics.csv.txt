@@ -1,0 +1,5 @@
+instancia_id,cpu_uso,mem_uso,storage_uso
+vm-1,45.3,55.2,31.0
+vm-2,91.5,62.3,48.6
+vm-3,37.1,83.2,66.0
+...
